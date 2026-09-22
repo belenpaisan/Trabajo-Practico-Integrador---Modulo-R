@@ -26,5 +26,5 @@ Todo fue realizado en R. Las librerías utilizadas fueron tidyverse (para el man
 
 ## Cómo ejecutar el código
 
-El archivo .R en el repositorio puede ser descargado y ejecutado en R. Es necesario tener instaladas las librerías anteriormente mencionadas. Al principio del código también hay un espacio para completar con un working directory local. Los comandos para guardar los gráficos están como comentario (con un #) pero puede removerse el # y ejecutarse.
+El archivo .R en el repositorio puede ser descargado y ejecutado en R. Es necesario tener instaladas las librerías anteriormente mencionadas. No es necesario, pero si se desea, al principio del código también hay un espacio para completar con un working directory local y los comandos para guardar los gráficos están como comentario (con un #) pero puede removerse el # y ejecutarse.
 La semilla generada para replicabilidad de la división entre grupos de entrenamiento y testeo se encuentra detallada en la parte pertinente.
